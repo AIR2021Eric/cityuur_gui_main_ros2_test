@@ -1,0 +1,20 @@
+<library path="lib/libcityuur_gui">
+  <class name="cityuur_gui/MyPlugin" type="cityuur_gui::MyPlugin" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      A CityU UR gui for ROV driver.
+    </description>
+    <qtgui>
+      <!-- optional grouping...
+      <group>
+        <label>Group</label>
+      </group>
+      <group>
+        <label>Subgroup</label>
+      </group>
+      -->
+      <label>CityU UR GUI</label>
+      <icon type="theme">system-help</icon>
+      <statustip>Great user interface to provide real value.</statustip>
+    </qtgui>
+  </class>
+</library>
