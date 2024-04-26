@@ -3,10 +3,10 @@
 moved README.md into cityuur_gui directory
 
 updated files:
-  	package.xml
-	CMakeLists.txt
+  	package.xml,
+	CMakeLists.txt,
 	setup.py
 
 added files:
-	Dockerfile
+	Dockerfile,
 	entry_point.sh
